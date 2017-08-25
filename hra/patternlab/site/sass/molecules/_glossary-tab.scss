@@ -18,6 +18,11 @@
         display: none;
     }
 
+    // Hide on 404 page
+    .template-404 & {
+        display: none;
+    }
+
     &--open {
         transform: translate3d(0, 0, 0);
     }

@@ -4546,6 +4546,10 @@ textarea:focus {
   }
 }
 
+.template-404 .glossary-tab {
+  display: none;
+}
+
 .glossary-tab--open {
   transform: translate3d(0, 0, 0);
 }
